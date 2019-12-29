@@ -1,4 +1,4 @@
-Reminder App
+## Reminder UI Flutter
 
 Implementation UI Mobile App with flutter framework
 
