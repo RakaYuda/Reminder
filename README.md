@@ -1,6 +1,6 @@
-# first_project
+Reminder App
 
-A new Flutter project.
+Implementation UI Mobile App with flutter framework
 
 ## Getting Started
 
